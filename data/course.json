@@ -1,0 +1,35 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electronics"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Signal Processing"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "457e7f07-0be1-ec57-ae01-777a4e2aaf86"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to Radar Systems",
+  "course_description": "This set of 10 lectures (about 11+ hours in duration) was excerpted from a three-day course developed at MIT Lincoln Laboratory to provide an understanding of radar systems concepts and technologies to military officers and DoD civilians involved in radar systems development, acquisition, and related fields. That three-day program consists of a mixture of lectures, demonstrations, laboratory sessions, and tours.\n\n[Online Publication](http://www.ll.mit.edu/workshops/education/videocourses/introradar)\n",
+  "department_numbers": [
+    "RES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.LL-001",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
